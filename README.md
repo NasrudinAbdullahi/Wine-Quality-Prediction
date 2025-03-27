@@ -49,7 +49,7 @@ This project is for educational purposes. Feel free to use or modify the code as
 
 ---
 
-👨‍💻 **Contributors:** [Your Team Members]
+👨‍💻 **Contributors:** - Vincent Rono, Nasrudin Abdullahi, Maria, Joy
 
 🔗 **Project Link:** [GitHub Repository]
 
