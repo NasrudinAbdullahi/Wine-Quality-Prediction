@@ -35,14 +35,6 @@ Based on the dataset characteristics and exploratory analysis, we selected and c
 - Implementing **feature engineering** to enhance model performance.
 - Deploying the model using a **web or mobile app** for real-world usability.
 
-## 📁 Repository Structure
-```
-├── data/               # Raw dataset (not uploaded)
-├── notebooks/          # Jupyter notebooks with data analysis & model training
-├── src/                # Python scripts for preprocessing & modeling
-├── README.md           # Project overview
-├── requirements.txt    # Required dependencies
-```
 
 ## 📜 License
 This project is for educational purposes. Feel free to use or modify the code as needed!
@@ -51,5 +43,5 @@ This project is for educational purposes. Feel free to use or modify the code as
 
 👨‍💻 **Contributors:** - Vincent Rono, Nasrudin Abdullahi, Maria, Joy
 
-🔗 **Project Link:** [GitHub Repository]
+🔗 **Project Link:** [[GitHub Repository](https://github.com/NasrudinAbdullahi/Wine-Quality-Prediction)]
 
