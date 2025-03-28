@@ -41,7 +41,7 @@ This project is for educational purposes. Feel free to use or modify the code as
 
 ---
 
-👨‍💻 **Contributors:** - Vincent Rono, Nasrudin Abdullahi, Maria, Joy
+👨‍💻 **Contributors:** - Kimutai Vincent, Nasrudin Abdullahi, Maria Wangari, Joy Melvine
 
 🔗 **Project Link:** [[GitHub Repository](https://github.com/NasrudinAbdullahi/Wine-Quality-Prediction)]
 
